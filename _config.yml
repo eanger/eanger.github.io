@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Eric Anger
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: eric@ericanger.me
+description: "A personal blog about the technology, programming, and the PhD lifestyle."
+baseurl: ""
+url: "http://eanger.github.io"
+twitter_username: eric_anger
+github_username:  eanger
+facebook_username:  eric.anger
 
 # Build settings
 markdown: kramdown
